@@ -1,9 +1,9 @@
 {
   "name": "donations-collectors",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "description": "An app which aim to ease the process of collecting money/blood donations within a specific group of people.",
+  "author": "yousif.abdelhamed@gmail.com",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
